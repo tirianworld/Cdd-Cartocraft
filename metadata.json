@@ -1,0 +1,6 @@
+{
+  "name": "Remix CartoCraft v2",
+  "description": "Una plataforma interactiva de cartografía RPG que permite forjar mapas de fantasía, enlazar subniveles de juego, simular atenuación lumínica y desatar climas dinámicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
